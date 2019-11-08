@@ -1,0 +1,861 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-pWLt6abkYhNeAHaDrPVG0yXCtIGRuCkwSUqQpsyN6smAIpIt+Iuq2IZKmoH9l3Cy/9ZnjvVrFZnvFFjGiqE3EA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a3b8a10d4a9e37a78f033ef4a4f525f5.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-rKfY0i2mZNv0BG7UyrzAdcm8GXBGHIB0y/hugtNxVUpHP41KoUR1CRRiR7eTvDuRDLF+x8P9fEsP7yxQwO464Q==" rel="stylesheet" href="https://github.githubassets.com/assets/github-aa5c2f579992daf0b40c175aabf01dfb.css" />
+  
+  
+  <link crossorigin="anonymous" media="all" integrity="sha512-L+Xfjk72/sIPS5T8Z8Wy/+/78ngrN7jAjVpE5Zoo2KfZYqr9s8p6selV7sLydYrh0Y3Pu02CuEa7uuq70RjSxg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-278e4176d194ae782983c71f1f767503.css" />
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>ionicons/ionicons.min.css at master · ionic-team/ionicons · GitHub</title>
+    <meta name="description" content="The premium icon font for Ionic Framework and web apps everywhere - ionic-team/ionicons">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/3171503?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ionic-team/ionicons" /><meta property="og:url" content="https://github.com/ionic-team/ionicons" /><meta property="og:description" content="The premium icon font for Ionic Framework and web apps everywhere - ionic-team/ionicons" />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="1173:5A76:12A9FF:22540A:5C5EA472" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="1173:5A76:12A9FF:22540A:5C5EA472" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="MjAwODAyNDFhZGFkN2U1MWU0YWVkM2JjNjM5ZTY3NjA1OGE0Mzg4Nzg1Njg2YWFjMzY4NGUzZTViZjViYTNmNnx7InJlbW90ZV9hZGRyZXNzIjoiNDkuMjA1LjIxOS4xMTEiLCJyZXF1ZXN0X2lkIjoiMTE3Mzo1QTc2OjEyQTlGRjoyMjU0MEE6NUM1RUE0NzIiLCJ0aW1lc3RhbXAiOjE1NDk3MDYzNTgsImhvc3QiOiJnaXRodWIuY29tIn0=">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_BROWSING_V2">
+
+  <meta name="html-safe-nonce" content="9c9215d4225f2f384d4023880e36a466a8d0363e">
+
+  <meta http-equiv="x-pjax-version" content="b4eb6976b940f7907b686d5a362555c5">
+  
+
+      <link href="https://github.com/ionic-team/ionicons/commits/master.atom" rel="alternate" title="Recent Commits to ionicons:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/ionic-team/ionicons git https://github.com/ionic-team/ionicons.git">
+
+  <meta name="octolytics-dimension-user_id" content="3171503" /><meta name="octolytics-dimension-user_login" content="ionic-team" /><meta name="octolytics-dimension-repository_id" content="13473768" /><meta name="octolytics-dimension-repository_nwo" content="ionic-team/ionicons" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="13473768" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ionic-team/ionicons" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/ionic-team/ionicons/blob/master/docs/css/ionicons.min.css" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+        
+<header class="Header header-logged-out  position-relative f4 py-3" role="banner">
+  <div class="container-lg d-flex px-3">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+        </a>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-none">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0" aria-label="Global">
+          <ul class="d-flex list-style-none">
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0  p-4 left-n4 position-absolute">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
+                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
+                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
+                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a>
+                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
+                      <li class="edge-item-fix"><a href="/features#social-coding" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Social coding">Social coding</a></li>
+                      <li class="edge-item-fix"><a href="/features#documentation" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Documentation">Documentation</a></li>
+                      <li class="edge-item-fix"><a href="/features#code-hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Code hosting</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/case-studies" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Case studies">Case Studies <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+              <li class=" mr-3 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, click, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0  p-4 left-n4 position-absolute">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2  border-top pt-3">Learn &amp; contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
+                      <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2  border-top pt-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class=" mr-3 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0  p-4 left-n4 position-absolute">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare features">Compare plans</a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare features">Contact Sales</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0  border-top pt-3">
+                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+          <div class="d-lg-flex mr-3">
+            <div class="header-search scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="13473768" data-scoped-search-url="/ionic-team/ionicons/search" data-unscoped-search-url="/search" action="/ionic-team/ionicons/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=9y2ZjCLWJ9rHCH4MPkYs4wKmhdwd2VZkeIsITjnJ6ocxnLx8HAHFQETAeaP4LRzXb1Dol/CbEeblMuH68UJowA=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <a class="HeaderMenu-link no-underline mr-3" href="/login?return_to=%2Fionic-team%2Fionicons%2Fblob%2Fmaster%2Fdocs%2Fcss%2Fionicons.min.css" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign&nbsp;in</a>
+          <a class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign&nbsp;up</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+
+</div>
+
+
+
+  <div role="main" class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+  
+
+
+  
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+
+  <li>
+      <a href="/login?return_to=%2Fionic-team%2Fionicons"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/ionic-team/ionicons/watchers"
+     aria-label="435 users are watching this repository">
+    435
+  </a>
+
+  </li>
+
+  <li>
+        <a href="/login?return_to=%2Fionic-team%2Fionicons"
+      class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+      aria-label="You must be signed in to star a repository" rel="nofollow">
+      <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      Star
+    </a>
+
+    <a class="social-count js-social-count" href="/ionic-team/ionicons/stargazers"
+      aria-label="13388 users starred this repository">
+      13,388
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fionic-team%2Fionicons"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+      </a>
+
+    <a href="/ionic-team/ionicons/network/members" class="social-count"
+       aria-label="1514 users forked this repository">
+      1,514
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/ionic-team/hovercard" href="/ionic-team">ionic-team</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/ionic-team/ionicons">ionicons</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /ionic-team/ionicons" href="/ionic-team/ionicons">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /ionic-team/ionicons/issues" href="/ionic-team/ionicons/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">216</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /ionic-team/ionicons/pulls" href="/ionic-team/ionicons/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">32</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+
+
+
+
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security people /ionic-team/ionicons/pulse" href="/ionic-team/ionicons/pulse">
+      <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+      Insights
+</a>
+
+</nav>
+
+
+  </div>
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+    
+
+
+
+  
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ionic-team/ionicons/blob/ce2a55406f244d3186525f29cbc98f8a26f0ae2f/docs/css/ionicons.min.css">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v21:67e7db3288d2ea2a401574f597747a64 -->
+
+        <div class="signup-prompt-bg rounded-1">
+      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+        <div class="position-relative">
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="k6f4uQo0sRJeuf7WZvfhtGJEOAd/ysId9Svcz6qHQTXMT2l0aca+JFoaEyuE2q/X0R4ty5mef0A6s5Xb/j9anw==" />
+            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
+              Dismiss
+            </button>
+</form>          <h3 class="pt-2">Join GitHub today</h3>
+          <p class="col-6 mx-auto">GitHub is home to over 31 million developers working together to host and review code, manage projects, and build software together.</p>
+          <a class="btn btn-primary" href="/join?source=prompt-blob-show" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up">Sign up</a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="file-navigation">
+      
+<details class="details-reset details-overlay select-menu branch-select-menu float-left">
+  <summary class="btn btn-sm select-menu-button css-truncate"
+           data-hotkey="w"
+           
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target">master</span>
+  </summary>
+
+  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/ionic-team/ionicons/ref-list/master/docs/css/ionicons.min.css?source_action=show&amp;source_controller=blob" preload>
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+    </include-fragment>
+  </details-menu>
+</details>
+
+      <div class="BtnGroup float-right">
+        <a href="/ionic-team/ionicons/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+      <div id="blob-path" class="breadcrumb">
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/ionic-team/ionicons"><span>ionicons</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ionic-team/ionicons/tree/master/docs"><span>docs</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/ionic-team/ionicons/tree/master/docs/css"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">ionicons.min.css</strong>
+      </div>
+    </div>
+
+
+    
+  <div class="commit-tease">
+      <span class="float-right">
+        <a class="commit-tease-sha" href="/ionic-team/ionicons/commit/7baec40185c595f59679cb7c2d8469e0781a7c05" data-pjax>
+          7baec40
+        </a>
+        <relative-time datetime="2019-01-22T18:19:41Z">Jan 22, 2019</relative-time>
+      </span>
+      <div>
+        <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=127379" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/manucorporat"><img class="avatar" src="https://avatars3.githubusercontent.com/u/127379?s=40&amp;v=4" width="20" height="20" alt="@manucorporat" /></a>
+        <a class="user-mention" rel="contributor" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=127379" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/manucorporat">manucorporat</a>
+          <a data-pjax="true" title="chore(): update website" class="message" href="/ionic-team/ionicons/commit/7baec40185c595f59679cb7c2d8469e0781a7c05">chore(): update website</a>
+      </div>
+
+    <div class="commit-tease-contributors">
+      
+<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+  <summary
+      class="btn-link"
+      aria-haspopup="dialog"
+      
+      
+      >
+    
+    <span><strong>4</strong> contributors</span>
+  </summary>
+  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <h3 class="Box-title">Users who have contributed to this file</h3>
+    </div>
+    
+        <ul class="list-style-none overflow-auto">
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/manucorporat">
+                <img class="avatar mr-2" alt="" src="https://avatars3.githubusercontent.com/u/127379?s=40&amp;v=4" width="20" height="20" />
+                manucorporat
+</a>            </li>
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/adamdbradley">
+                <img class="avatar mr-2" alt="" src="https://avatars0.githubusercontent.com/u/452425?s=40&amp;v=4" width="20" height="20" />
+                adamdbradley
+</a>            </li>
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/kevinports">
+                <img class="avatar mr-2" alt="" src="https://avatars3.githubusercontent.com/u/751207?s=40&amp;v=4" width="20" height="20" />
+                kevinports
+</a>            </li>
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/brandyscarney">
+                <img class="avatar mr-2" alt="" src="https://avatars0.githubusercontent.com/u/6577830?s=40&amp;v=4" width="20" height="20" />
+                brandyscarney
+</a>            </li>
+        </ul>
+
+  </details-dialog>
+</details>
+          <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=127379" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ionic-team/ionicons/commits/master/docs/css/ionicons.min.css?author=manucorporat">
+      <img class="avatar" src="https://avatars3.githubusercontent.com/u/127379?s=40&amp;v=4" width="20" height="20" alt="@manucorporat" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=452425" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ionic-team/ionicons/commits/master/docs/css/ionicons.min.css?author=adamdbradley">
+      <img class="avatar" src="https://avatars0.githubusercontent.com/u/452425?s=40&amp;v=4" width="20" height="20" alt="@adamdbradley" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=751207" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ionic-team/ionicons/commits/master/docs/css/ionicons.min.css?author=kevinports">
+      <img class="avatar" src="https://avatars3.githubusercontent.com/u/751207?s=40&amp;v=4" width="20" height="20" alt="@kevinports" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6577830" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ionic-team/ionicons/commits/master/docs/css/ionicons.min.css?author=brandyscarney">
+      <img class="avatar" src="https://avatars0.githubusercontent.com/u/6577830?s=40&amp;v=4" width="20" height="20" alt="@brandyscarney" /> 
+</a>
+
+    </div>
+  </div>
+
+
+
+
+    <div class="file ">
+      
+<div class="file-header">
+
+  <div class="file-actions">
+
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ionic-team/ionicons/raw/master/docs/css/ionicons.min.css">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ionic-team/ionicons/blame/master/docs/css/ionicons.min.css">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ionic-team/ionicons/commits/master/docs/css/ionicons.min.css">History</a>
+    </div>
+
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="https://desktop.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:windows">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+          aria-label="You must be signed in to make or propose changes">
+          <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+        </button>
+        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          aria-label="You must be signed in to make or propose changes">
+          <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+        </button>
+  </div>
+
+  <div class="file-info">
+      12 lines (10 sloc)
+      <span class="file-info-divider"></span>
+    45.5 KB
+  </div>
+</div>
+
+      
+
+  <div itemprop="text" class="blob-wrapper data type-css ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>!</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  Ionicons, v4.5.5</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  Created by Ben Sperry for the Ionic Framework, http://ionicons.com/</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  https://twitter.com/benjsperry  https://twitter.com/ionicframework</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  MIT License: https://github.com/driftyco/ionicons</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"></span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  Android-style icons originally built by Google’s</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  Material Design Icons: https://github.com/google/material-design-icons</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  used under CC BY http://creativecommons.org/licenses/by/4.0/</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  Modified icons to fit ionicon’s grid from original.</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*/@font-face{font-family:&quot;Ionicons&quot;;src:url(&quot;../fonts/ionicons.eot?v=4.5.5&quot;);src:url(&quot;../fonts/ionicons.eot?v=4.5.5#iefix&quot;) format(&quot;embedded-opentype&quot;),url(&quot;../fonts/ionicons.woff2?v=4.5.5&quot;) format(&quot;woff2&quot;),url(&quot;../fonts/ionicons.woff?v=4.5.5&quot;) format(&quot;woff&quot;),url(&quot;../fonts/ionicons.ttf?v=4.5.5&quot;) format(&quot;truetype&quot;),url(&quot;../fonts/ionicons.svg?v=4.5.5#Ionicons&quot;) format(&quot;svg&quot;);font-weight:normal;font-style:normal}.ion,.ionicons,.ion-ios-add:before,.ion-ios-add-circle:before,.ion-ios-add-circle-outline:before,.ion-ios-airplane:before,.ion-ios-alarm:before,.ion-ios-albums:before,.ion-ios-alert:before,.ion-ios-american-football:before,.ion-ios-analytics:before,.ion-ios-aperture:before,.ion-ios-apps:before,.ion-ios-appstore:before,.ion-ios-archive:before,.ion-ios-arrow-back:before,.ion-ios-arrow-down:before,.ion-ios-arrow-dropdown:before,.ion-ios-arrow-dropdown-circle:before,.ion-ios-arrow-dropleft:before,.ion-ios-arrow-dropleft-circle:before,.ion-ios-arrow-dropright:before,.ion-ios-arrow-dropright-circle:before,.ion-ios-arrow-dropup:before,.ion-ios-arrow-dropup-circle:before,.ion-ios-arrow-forward:before,.ion-ios-arrow-round-back:before,.ion-ios-arrow-round-down:before,.ion-ios-arrow-round-forward:before,.ion-ios-arrow-round-up:before,.ion-ios-arrow-up:before,.ion-ios-at:before,.ion-ios-attach:before,.ion-ios-backspace:before,.ion-ios-barcode:before,.ion-ios-baseball:before,.ion-ios-basket:before,.ion-ios-basketball:before,.ion-ios-battery-charging:before,.ion-ios-battery-dead:before,.ion-ios-battery-full:before,.ion-ios-beaker:before,.ion-ios-bed:before,.ion-ios-beer:before,.ion-ios-bicycle:before,.ion-ios-bluetooth:before,.ion-ios-boat:before,.ion-ios-body:before,.ion-ios-bonfire:before,.ion-ios-book:before,.ion-ios-bookmark:before,.ion-ios-bookmarks:before,.ion-ios-bowtie:before,.ion-ios-briefcase:before,.ion-ios-browsers:before,.ion-ios-brush:before,.ion-ios-bug:before,.ion-ios-build:before,.ion-ios-bulb:before,.ion-ios-bus:before,.ion-ios-business:before,.ion-ios-cafe:before,.ion-ios-calculator:before,.ion-ios-calendar:before,.ion-ios-call:before,.ion-ios-camera:before,.ion-ios-car:before,.ion-ios-card:before,.ion-ios-cart:before,.ion-ios-cash:before,.ion-ios-cellular:before,.ion-ios-chatboxes:before,.ion-ios-chatbubbles:before,.ion-ios-checkbox:before,.ion-ios-checkbox-outline:before,.ion-ios-checkmark:before,.ion-ios-checkmark-circle:before,.ion-ios-checkmark-circle-outline:before,.ion-ios-clipboard:before,.ion-ios-clock:before,.ion-ios-close:before,.ion-ios-close-circle:before,.ion-ios-close-circle-outline:before,.ion-ios-cloud:before,.ion-ios-cloud-circle:before,.ion-ios-cloud-done:before,.ion-ios-cloud-download:before,.ion-ios-cloud-outline:before,.ion-ios-cloud-upload:before,.ion-ios-cloudy:before,.ion-ios-cloudy-night:before,.ion-ios-code:before,.ion-ios-code-download:before,.ion-ios-code-working:before,.ion-ios-cog:before,.ion-ios-color-fill:before,.ion-ios-color-filter:before,.ion-ios-color-palette:before,.ion-ios-color-wand:before,.ion-ios-compass:before,.ion-ios-construct:before,.ion-ios-contact:before,.ion-ios-contacts:before,.ion-ios-contract:before,.ion-ios-contrast:before,.ion-ios-copy:before,.ion-ios-create:before,.ion-ios-crop:before,.ion-ios-cube:before,.ion-ios-cut:before,.ion-ios-desktop:before,.ion-ios-disc:before,.ion-ios-document:before,.ion-ios-done-all:before,.ion-ios-download:before,.ion-ios-easel:before,.ion-ios-egg:before,.ion-ios-exit:before,.ion-ios-expand:before,.ion-ios-eye:before,.ion-ios-eye-off:before,.ion-ios-fastforward:before,.ion-ios-female:before,.ion-ios-filing:before,.ion-ios-film:before,.ion-ios-finger-print:before,.ion-ios-fitness:before,.ion-ios-flag:before,.ion-ios-flame:before,.ion-ios-flash:before,.ion-ios-flash-off:before,.ion-ios-flashlight:before,.ion-ios-flask:before,.ion-ios-flower:before,.ion-ios-folder:before,.ion-ios-folder-open:before,.ion-ios-football:before,.ion-ios-funnel:before,.ion-ios-gift:before,.ion-ios-git-branch:before,.ion-ios-git-commit:before,.ion-ios-git-compare:before,.ion-ios-git-merge:before,.ion-ios-git-network:before,.ion-ios-git-pull-request:before,.ion-ios-glasses:before,.ion-ios-globe:before,.ion-ios-grid:before,.ion-ios-hammer:before,.ion-ios-hand:before,.ion-ios-happy:before,.ion-ios-headset:before,.ion-ios-heart:before,.ion-ios-heart-dislike:before,.ion-ios-heart-empty:before,.ion-ios-heart-half:before,.ion-ios-help:before,.ion-ios-help-buoy:before,.ion-ios-help-circle:before,.ion-ios-help-circle-outline:before,.ion-ios-home:before,.ion-ios-hourglass:before,.ion-ios-ice-cream:before,.ion-ios-image:before,.ion-ios-images:before,.ion-ios-infinite:before,.ion-ios-information:before,.ion-ios-information-circle:before,.ion-ios-information-circle-outline:before,.ion-ios-jet:before,.ion-ios-journal:before,.ion-ios-key:before,.ion-ios-keypad:before,.ion-ios-laptop:before,.ion-ios-leaf:before,.ion-ios-link:before,.ion-ios-list:before,.ion-ios-list-box:before,.ion-ios-locate:before,.ion-ios-lock:before,.ion-ios-log-in:before,.ion-ios-log-out:before,.ion-ios-magnet:before,.ion-ios-mail:before,.ion-ios-mail-open:before,.ion-ios-mail-unread:before,.ion-ios-male:before,.ion-ios-man:before,.ion-ios-map:before,.ion-ios-medal:before,.ion-ios-medical:before,.ion-ios-medkit:before,.ion-ios-megaphone:before,.ion-ios-menu:before,.ion-ios-mic:before,.ion-ios-mic-off:before,.ion-ios-microphone:before,.ion-ios-moon:before,.ion-ios-more:before,.ion-ios-move:before,.ion-ios-musical-note:before,.ion-ios-musical-notes:before,.ion-ios-navigate:before,.ion-ios-notifications:before,.ion-ios-notifications-off:before,.ion-ios-notifications-outline:before,.ion-ios-nuclear:before,.ion-ios-nutrition:before,.ion-ios-open:before,.ion-ios-options:before,.ion-ios-outlet:before,.ion-ios-paper:before,.ion-ios-paper-plane:before,.ion-ios-partly-sunny:before,.ion-ios-pause:before,.ion-ios-paw:before,.ion-ios-people:before,.ion-ios-person:before,.ion-ios-person-add:before,.ion-ios-phone-landscape:before,.ion-ios-phone-portrait:before,.ion-ios-photos:before,.ion-ios-pie:before,.ion-ios-pin:before,.ion-ios-pint:before,.ion-ios-pizza:before,.ion-ios-planet:before,.ion-ios-play:before,.ion-ios-play-circle:before,.ion-ios-podium:before,.ion-ios-power:before,.ion-ios-pricetag:before,.ion-ios-pricetags:before,.ion-ios-print:before,.ion-ios-pulse:before,.ion-ios-qr-scanner:before,.ion-ios-quote:before,.ion-ios-radio:before,.ion-ios-radio-button-off:before,.ion-ios-radio-button-on:before,.ion-ios-rainy:before,.ion-ios-recording:before,.ion-ios-redo:before,.ion-ios-refresh:before,.ion-ios-refresh-circle:before,.ion-ios-remove:before,.ion-ios-remove-circle:before,.ion-ios-remove-circle-outline:before,.ion-ios-reorder:before,.ion-ios-repeat:before,.ion-ios-resize:before,.ion-ios-restaurant:before,.ion-ios-return-left:before,.ion-ios-return-right:before,.ion-ios-reverse-camera:before,.ion-ios-rewind:before,.ion-ios-ribbon:before,.ion-ios-rocket:before,.ion-ios-rose:before,.ion-ios-sad:before,.ion-ios-save:before,.ion-ios-school:before,.ion-ios-search:before,.ion-ios-send:before,.ion-ios-settings:before,.ion-ios-share:before,.ion-ios-share-alt:before,.ion-ios-shirt:before,.ion-ios-shuffle:before,.ion-ios-skip-backward:before,.ion-ios-skip-forward:before,.ion-ios-snow:before,.ion-ios-speedometer:before,.ion-ios-square:before,.ion-ios-square-outline:before,.ion-ios-star:before,.ion-ios-star-half:before,.ion-ios-star-outline:before,.ion-ios-stats:before,.ion-ios-stopwatch:before,.ion-ios-subway:before,.ion-ios-sunny:before,.ion-ios-swap:before,.ion-ios-switch:before,.ion-ios-sync:before,.ion-ios-tablet-landscape:before,.ion-ios-tablet-portrait:before,.ion-ios-tennisball:before,.ion-ios-text:before,.ion-ios-thermometer:before,.ion-ios-thumbs-down:before,.ion-ios-thumbs-up:before,.ion-ios-thunderstorm:before,.ion-ios-time:before,.ion-ios-timer:before,.ion-ios-today:before,.ion-ios-train:before,.ion-ios-transgender:before,.ion-ios-trash:before,.ion-ios-trending-down:before,.ion-ios-trending-up:before,.ion-ios-trophy:before,.ion-ios-tv:before,.ion-ios-umbrella:before,.ion-ios-undo:before,.ion-ios-unlock:before,.ion-ios-videocam:before,.ion-ios-volume-high:before,.ion-ios-volume-low:before,.ion-ios-volume-mute:before,.ion-ios-volume-off:before,.ion-ios-walk:before,.ion-ios-wallet:before,.ion-ios-warning:before,.ion-ios-watch:before,.ion-ios-water:before,.ion-ios-wifi:before,.ion-ios-wine:before,.ion-ios-woman:before,.ion-logo-android:before,.ion-logo-angular:before,.ion-logo-apple:before,.ion-logo-bitbucket:before,.ion-logo-bitcoin:before,.ion-logo-buffer:before,.ion-logo-chrome:before,.ion-logo-closed-captioning:before,.ion-logo-codepen:before,.ion-logo-css3:before,.ion-logo-designernews:before,.ion-logo-dribbble:before,.ion-logo-dropbox:before,.ion-logo-euro:before,.ion-logo-facebook:before,.ion-logo-flickr:before,.ion-logo-foursquare:before,.ion-logo-freebsd-devil:before,.ion-logo-game-controller-a:before,.ion-logo-game-controller-b:before,.ion-logo-github:before,.ion-logo-google:before,.ion-logo-googleplus:before,.ion-logo-hackernews:before,.ion-logo-html5:before,.ion-logo-instagram:before,.ion-logo-ionic:before,.ion-logo-ionitron:before,.ion-logo-javascript:before,.ion-logo-linkedin:before,.ion-logo-markdown:before,.ion-logo-model-s:before,.ion-logo-no-smoking:before,.ion-logo-nodejs:before,.ion-logo-npm:before,.ion-logo-octocat:before,.ion-logo-pinterest:before,.ion-logo-playstation:before,.ion-logo-polymer:before,.ion-logo-python:before,.ion-logo-reddit:before,.ion-logo-rss:before,.ion-logo-sass:before,.ion-logo-skype:before,.ion-logo-slack:before,.ion-logo-snapchat:before,.ion-logo-steam:before,.ion-logo-tumblr:before,.ion-logo-tux:before,.ion-logo-twitch:before,.ion-logo-twitter:before,.ion-logo-usd:before,.ion-logo-vimeo:before,.ion-logo-vk:before,.ion-logo-whatsapp:before,.ion-logo-windows:before,.ion-logo-wordpress:before,.ion-logo-xbox:before,.ion-logo-xing:before,.ion-logo-yahoo:before,.ion-logo-yen:before,.ion-logo-youtube:before,.ion-md-add:before,.ion-md-add-circle:before,.ion-md-add-circle-outline:before,.ion-md-airplane:before,.ion-md-alarm:before,.ion-md-albums:before,.ion-md-alert:before,.ion-md-american-football:before,.ion-md-analytics:before,.ion-md-aperture:before,.ion-md-apps:before,.ion-md-appstore:before,.ion-md-archive:before,.ion-md-arrow-back:before,.ion-md-arrow-down:before,.ion-md-arrow-dropdown:before,.ion-md-arrow-dropdown-circle:before,.ion-md-arrow-dropleft:before,.ion-md-arrow-dropleft-circle:before,.ion-md-arrow-dropright:before,.ion-md-arrow-dropright-circle:before,.ion-md-arrow-dropup:before,.ion-md-arrow-dropup-circle:before,.ion-md-arrow-forward:before,.ion-md-arrow-round-back:before,.ion-md-arrow-round-down:before,.ion-md-arrow-round-forward:before,.ion-md-arrow-round-up:before,.ion-md-arrow-up:before,.ion-md-at:before,.ion-md-attach:before,.ion-md-backspace:before,.ion-md-barcode:before,.ion-md-baseball:before,.ion-md-basket:before,.ion-md-basketball:before,.ion-md-battery-charging:before,.ion-md-battery-dead:before,.ion-md-battery-full:before,.ion-md-beaker:before,.ion-md-bed:before,.ion-md-beer:before,.ion-md-bicycle:before,.ion-md-bluetooth:before,.ion-md-boat:before,.ion-md-body:before,.ion-md-bonfire:before,.ion-md-book:before,.ion-md-bookmark:before,.ion-md-bookmarks:before,.ion-md-bowtie:before,.ion-md-briefcase:before,.ion-md-browsers:before,.ion-md-brush:before,.ion-md-bug:before,.ion-md-build:before,.ion-md-bulb:before,.ion-md-bus:before,.ion-md-business:before,.ion-md-cafe:before,.ion-md-calculator:before,.ion-md-calendar:before,.ion-md-call:before,.ion-md-camera:before,.ion-md-car:before,.ion-md-card:before,.ion-md-cart:before,.ion-md-cash:before,.ion-md-cellular:before,.ion-md-chatboxes:before,.ion-md-chatbubbles:before,.ion-md-checkbox:before,.ion-md-checkbox-outline:before,.ion-md-checkmark:before,.ion-md-checkmark-circle:before,.ion-md-checkmark-circle-outline:before,.ion-md-clipboard:before,.ion-md-clock:before,.ion-md-close:before,.ion-md-close-circle:before,.ion-md-close-circle-outline:before,.ion-md-cloud:before,.ion-md-cloud-circle:before,.ion-md-cloud-done:before,.ion-md-cloud-download:before,.ion-md-cloud-outline:before,.ion-md-cloud-upload:before,.ion-md-cloudy:before,.ion-md-cloudy-night:before,.ion-md-code:before,.ion-md-code-download:before,.ion-md-code-working:before,.ion-md-cog:before,.ion-md-color-fill:before,.ion-md-color-filter:before,.ion-md-color-palette:before,.ion-md-color-wand:before,.ion-md-compass:before,.ion-md-construct:before,.ion-md-contact:before,.ion-md-contacts:before,.ion-md-contract:before,.ion-md-contrast:before,.ion-md-copy:before,.ion-md-create:before,.ion-md-crop:before,.ion-md-cube:before,.ion-md-cut:before,.ion-md-desktop:before,.ion-md-disc:before,.ion-md-document:before,.ion-md-done-all:before,.ion-md-download:before,.ion-md-easel:before,.ion-md-egg:before,.ion-md-exit:before,.ion-md-expand:before,.ion-md-eye:before,.ion-md-eye-off:before,.ion-md-fastforward:before,.ion-md-female:before,.ion-md-filing:before,.ion-md-film:before,.ion-md-finger-print:before,.ion-md-fitness:before,.ion-md-flag:before,.ion-md-flame:before,.ion-md-flash:before,.ion-md-flash-off:before,.ion-md-flashlight:before,.ion-md-flask:before,.ion-md-flower:before,.ion-md-folder:before,.ion-md-folder-open:before,.ion-md-football:before,.ion-md-funnel:before,.ion-md-gift:before,.ion-md-git-branch:before,.ion-md-git-commit:before,.ion-md-git-compare:before,.ion-md-git-merge:before,.ion-md-git-network:before,.ion-md-git-pull-request:before,.ion-md-glasses:before,.ion-md-globe:before,.ion-md-grid:before,.ion-md-hammer:before,.ion-md-hand:before,.ion-md-happy:before,.ion-md-headset:before,.ion-md-heart:before,.ion-md-heart-dislike:before,.ion-md-heart-empty:before,.ion-md-heart-half:before,.ion-md-help:before,.ion-md-help-buoy:before,.ion-md-help-circle:before,.ion-md-help-circle-outline:before,.ion-md-home:before,.ion-md-hourglass:before,.ion-md-ice-cream:before,.ion-md-image:before,.ion-md-images:before,.ion-md-infinite:before,.ion-md-information:before,.ion-md-information-circle:before,.ion-md-information-circle-outline:before,.ion-md-jet:before,.ion-md-journal:before,.ion-md-key:before,.ion-md-keypad:before,.ion-md-laptop:before,.ion-md-leaf:before,.ion-md-link:before,.ion-md-list:before,.ion-md-list-box:before,.ion-md-locate:before,.ion-md-lock:before,.ion-md-log-in:before,.ion-md-log-out:before,.ion-md-magnet:before,.ion-md-mail:before,.ion-md-mail-open:before,.ion-md-mail-unread:before,.ion-md-male:before,.ion-md-man:before,.ion-md-map:before,.ion-md-medal:before,.ion-md-medical:before,.ion-md-medkit:before,.ion-md-megaphone:before,.ion-md-menu:before,.ion-md-mic:before,.ion-md-mic-off:before,.ion-md-microphone:before,.ion-md-moon:before,.ion-md-more:before,.ion-md-move:before,.ion-md-musical-note:before,.ion-md-musical-notes:before,.ion-md-navigate:before,.ion-md-notifications:before,.ion-md-notifications-off:before,.ion-md-notifications-outline:before,.ion-md-nuclear:before,.ion-md-nutrition:before,.ion-md-open:before,.ion-md-options:before,.ion-md-outlet:before,.ion-md-paper:before,.ion-md-paper-plane:before,.ion-md-partly-sunny:before,.ion-md-pause:before,.ion-md-paw:before,.ion-md-people:before,.ion-md-person:before,.ion-md-person-add:before,.ion-md-phone-landscape:before,.ion-md-phone-portrait:before,.ion-md-photos:before,.ion-md-pie:before,.ion-md-pin:before,.ion-md-pint:before,.ion-md-pizza:before,.ion-md-planet:before,.ion-md-play:before,.ion-md-play-circle:before,.ion-md-podium:before,.ion-md-power:before,.ion-md-pricetag:before,.ion-md-pricetags:before,.ion-md-print:before,.ion-md-pulse:before,.ion-md-qr-scanner:before,.ion-md-quote:before,.ion-md-radio:before,.ion-md-radio-button-off:before,.ion-md-radio-button-on:before,.ion-md-rainy:before,.ion-md-recording:before,.ion-md-redo:before,.ion-md-refresh:before,.ion-md-refresh-circle:before,.ion-md-remove:before,.ion-md-remove-circle:before,.ion-md-remove-circle-outline:before,.ion-md-reorder:before,.ion-md-repeat:before,.ion-md-resize:before,.ion-md-restaurant:before,.ion-md-return-left:before,.ion-md-return-right:before,.ion-md-reverse-camera:before,.ion-md-rewind:before,.ion-md-ribbon:before,.ion-md-rocket:before,.ion-md-rose:before,.ion-md-sad:before,.ion-md-save:before,.ion-md-school:before,.ion-md-search:before,.ion-md-send:before,.ion-md-settings:before,.ion-md-share:before,.ion-md-share-alt:before,.ion-md-shirt:before,.ion-md-shuffle:before,.ion-md-skip-backward:before,.ion-md-skip-forward:before,.ion-md-snow:before,.ion-md-speedometer:before,.ion-md-square:before,.ion-md-square-outline:before,.ion-md-star:before,.ion-md-star-half:before,.ion-md-star-outline:before,.ion-md-stats:before,.ion-md-stopwatch:before,.ion-md-subway:before,.ion-md-sunny:before,.ion-md-swap:before,.ion-md-switch:before,.ion-md-sync:before,.ion-md-tablet-landscape:before,.ion-md-tablet-portrait:before,.ion-md-tennisball:before,.ion-md-text:before,.ion-md-thermometer:before,.ion-md-thumbs-down:before,.ion-md-thumbs-up:before,.ion-md-thunderstorm:before,.ion-md-time:before,.ion-md-timer:before,.ion-md-today:before,.ion-md-train:before,.ion-md-transgender:before,.ion-md-trash:before,.ion-md-trending-down:before,.ion-md-trending-up:before,.ion-md-trophy:before,.ion-md-tv:before,.ion-md-umbrella:before,.ion-md-undo:before,.ion-md-unlock:before,.ion-md-videocam:before,.ion-md-volume-high:before,.ion-md-volume-low:before,.ion-md-volume-mute:before,.ion-md-volume-off:before,.ion-md-walk:before,.ion-md-wallet:before,.ion-md-warning:before,.ion-md-watch:before,.ion-md-water:before,.ion-md-wifi:before,.ion-md-wine:before,.ion-md-woman:before{display:inline-block;font-family:&quot;Ionicons&quot;;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;text-rendering:auto;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.ion-ios-add:before{content:&quot;\f102&quot;}.ion-ios-add-circle:before{content:&quot;\f101&quot;}.ion-ios-add-circle-outline:before{content:&quot;\f100&quot;}.ion-ios-airplane:before{content:&quot;\f137&quot;}.ion-ios-alarm:before{content:&quot;\f3c8&quot;}.ion-ios-albums:before{content:&quot;\f3ca&quot;}.ion-ios-alert:before{content:&quot;\f104&quot;}.ion-ios-american-football:before{content:&quot;\f106&quot;}.ion-ios-analytics:before{content:&quot;\f3ce&quot;}.ion-ios-aperture:before{content:&quot;\f108&quot;}.ion-ios-apps:before{content:&quot;\f10a&quot;}.ion-ios-appstore:before{content:&quot;\f10c&quot;}.ion-ios-archive:before{content:&quot;\f10e&quot;}.ion-ios-arrow-back:before{content:&quot;\f3cf&quot;}.ion-ios-arrow-down:before{content:&quot;\f3d0&quot;}.ion-ios-arrow-dropdown:before{content:&quot;\f110&quot;}.ion-ios-arrow-dropdown-circle:before{content:&quot;\f125&quot;}.ion-ios-arrow-dropleft:before{content:&quot;\f112&quot;}.ion-ios-arrow-dropleft-circle:before{content:&quot;\f129&quot;}.ion-ios-arrow-dropright:before{content:&quot;\f114&quot;}.ion-ios-arrow-dropright-circle:before{content:&quot;\f12b&quot;}.ion-ios-arrow-dropup:before{content:&quot;\f116&quot;}.ion-ios-arrow-dropup-circle:before{content:&quot;\f12d&quot;}.ion-ios-arrow-forward:before{content:&quot;\f3d1&quot;}.ion-ios-arrow-round-back:before{content:&quot;\f117&quot;}.ion-ios-arrow-round-down:before{content:&quot;\f118&quot;}.ion-ios-arrow-round-forward:before{content:&quot;\f119&quot;}.ion-ios-arrow-round-up:before{content:&quot;\f11a&quot;}.ion-ios-arrow-up:before{content:&quot;\f3d8&quot;}.ion-ios-at:before{content:&quot;\f3da&quot;}.ion-ios-attach:before{content:&quot;\f11b&quot;}.ion-ios-backspace:before{content:&quot;\f11d&quot;}.ion-ios-barcode:before{content:&quot;\f3dc&quot;}.ion-ios-baseball:before{content:&quot;\f3de&quot;}.ion-ios-basket:before{content:&quot;\f11f&quot;}.ion-ios-basketball:before{content:&quot;\f3e0&quot;}.ion-ios-battery-charging:before{content:&quot;\f120&quot;}.ion-ios-battery-dead:before{content:&quot;\f121&quot;}.ion-ios-battery-full:before{content:&quot;\f122&quot;}.ion-ios-beaker:before{content:&quot;\f124&quot;}.ion-ios-bed:before{content:&quot;\f139&quot;}.ion-ios-beer:before{content:&quot;\f126&quot;}.ion-ios-bicycle:before{content:&quot;\f127&quot;}.ion-ios-bluetooth:before{content:&quot;\f128&quot;}.ion-ios-boat:before{content:&quot;\f12a&quot;}.ion-ios-body:before{content:&quot;\f3e4&quot;}.ion-ios-bonfire:before{content:&quot;\f12c&quot;}.ion-ios-book:before{content:&quot;\f3e8&quot;}.ion-ios-bookmark:before{content:&quot;\f12e&quot;}.ion-ios-bookmarks:before{content:&quot;\f3ea&quot;}.ion-ios-bowtie:before{content:&quot;\f130&quot;}.ion-ios-briefcase:before{content:&quot;\f3ee&quot;}.ion-ios-browsers:before{content:&quot;\f3f0&quot;}.ion-ios-brush:before{content:&quot;\f132&quot;}.ion-ios-bug:before{content:&quot;\f134&quot;}.ion-ios-build:before{content:&quot;\f136&quot;}.ion-ios-bulb:before{content:&quot;\f138&quot;}.ion-ios-bus:before{content:&quot;\f13a&quot;}.ion-ios-business:before{content:&quot;\f1a3&quot;}.ion-ios-cafe:before{content:&quot;\f13c&quot;}.ion-ios-calculator:before{content:&quot;\f3f2&quot;}.ion-ios-calendar:before{content:&quot;\f3f4&quot;}.ion-ios-call:before{content:&quot;\f13e&quot;}.ion-ios-camera:before{content:&quot;\f3f6&quot;}.ion-ios-car:before{content:&quot;\f140&quot;}.ion-ios-card:before{content:&quot;\f142&quot;}.ion-ios-cart:before{content:&quot;\f3f8&quot;}.ion-ios-cash:before{content:&quot;\f144&quot;}.ion-ios-cellular:before{content:&quot;\f13d&quot;}.ion-ios-chatboxes:before{content:&quot;\f3fa&quot;}.ion-ios-chatbubbles:before{content:&quot;\f146&quot;}.ion-ios-checkbox:before{content:&quot;\f148&quot;}.ion-ios-checkbox-outline:before{content:&quot;\f147&quot;}.ion-ios-checkmark:before{content:&quot;\f3ff&quot;}.ion-ios-checkmark-circle:before{content:&quot;\f14a&quot;}.ion-ios-checkmark-circle-outline:before{content:&quot;\f149&quot;}.ion-ios-clipboard:before{content:&quot;\f14c&quot;}.ion-ios-clock:before{content:&quot;\f403&quot;}.ion-ios-close:before{content:&quot;\f406&quot;}.ion-ios-close-circle:before{content:&quot;\f14e&quot;}.ion-ios-close-circle-outline:before{content:&quot;\f14d&quot;}.ion-ios-cloud:before{content:&quot;\f40c&quot;}.ion-ios-cloud-circle:before{content:&quot;\f152&quot;}.ion-ios-cloud-done:before{content:&quot;\f154&quot;}.ion-ios-cloud-download:before{content:&quot;\f408&quot;}.ion-ios-cloud-outline:before{content:&quot;\f409&quot;}.ion-ios-cloud-upload:before{content:&quot;\f40b&quot;}.ion-ios-cloudy:before{content:&quot;\f410&quot;}.ion-ios-cloudy-night:before{content:&quot;\f40e&quot;}.ion-ios-code:before{content:&quot;\f157&quot;}.ion-ios-code-download:before{content:&quot;\f155&quot;}.ion-ios-code-working:before{content:&quot;\f156&quot;}.ion-ios-cog:before{content:&quot;\f412&quot;}.ion-ios-color-fill:before{content:&quot;\f159&quot;}.ion-ios-color-filter:before{content:&quot;\f414&quot;}.ion-ios-color-palette:before{content:&quot;\f15b&quot;}.ion-ios-color-wand:before{content:&quot;\f416&quot;}.ion-ios-compass:before{content:&quot;\f15d&quot;}.ion-ios-construct:before{content:&quot;\f15f&quot;}.ion-ios-contact:before{content:&quot;\f41a&quot;}.ion-ios-contacts:before{content:&quot;\f161&quot;}.ion-ios-contract:before{content:&quot;\f162&quot;}.ion-ios-contrast:before{content:&quot;\f163&quot;}.ion-ios-copy:before{content:&quot;\f41c&quot;}.ion-ios-create:before{content:&quot;\f165&quot;}.ion-ios-crop:before{content:&quot;\f41e&quot;}.ion-ios-cube:before{content:&quot;\f168&quot;}.ion-ios-cut:before{content:&quot;\f16a&quot;}.ion-ios-desktop:before{content:&quot;\f16c&quot;}.ion-ios-disc:before{content:&quot;\f16e&quot;}.ion-ios-document:before{content:&quot;\f170&quot;}.ion-ios-done-all:before{content:&quot;\f171&quot;}.ion-ios-download:before{content:&quot;\f420&quot;}.ion-ios-easel:before{content:&quot;\f173&quot;}.ion-ios-egg:before{content:&quot;\f175&quot;}.ion-ios-exit:before{content:&quot;\f177&quot;}.ion-ios-expand:before{content:&quot;\f178&quot;}.ion-ios-eye:before{content:&quot;\f425&quot;}.ion-ios-eye-off:before{content:&quot;\f17a&quot;}.ion-ios-fastforward:before{content:&quot;\f427&quot;}.ion-ios-female:before{content:&quot;\f17b&quot;}.ion-ios-filing:before{content:&quot;\f429&quot;}.ion-ios-film:before{content:&quot;\f42b&quot;}.ion-ios-finger-print:before{content:&quot;\f17c&quot;}.ion-ios-fitness:before{content:&quot;\f1ab&quot;}.ion-ios-flag:before{content:&quot;\f42d&quot;}.ion-ios-flame:before{content:&quot;\f42f&quot;}.ion-ios-flash:before{content:&quot;\f17e&quot;}.ion-ios-flash-off:before{content:&quot;\f12f&quot;}.ion-ios-flashlight:before{content:&quot;\f141&quot;}.ion-ios-flask:before{content:&quot;\f431&quot;}.ion-ios-flower:before{content:&quot;\f433&quot;}.ion-ios-folder:before{content:&quot;\f435&quot;}.ion-ios-folder-open:before{content:&quot;\f180&quot;}.ion-ios-football:before{content:&quot;\f437&quot;}.ion-ios-funnel:before{content:&quot;\f182&quot;}.ion-ios-gift:before{content:&quot;\f191&quot;}.ion-ios-git-branch:before{content:&quot;\f183&quot;}.ion-ios-git-commit:before{content:&quot;\f184&quot;}.ion-ios-git-compare:before{content:&quot;\f185&quot;}.ion-ios-git-merge:before{content:&quot;\f186&quot;}.ion-ios-git-network:before{content:&quot;\f187&quot;}.ion-ios-git-pull-request:before{content:&quot;\f188&quot;}.ion-ios-glasses:before{content:&quot;\f43f&quot;}.ion-ios-globe:before{content:&quot;\f18a&quot;}.ion-ios-grid:before{content:&quot;\f18c&quot;}.ion-ios-hammer:before{content:&quot;\f18e&quot;}.ion-ios-hand:before{content:&quot;\f190&quot;}.ion-ios-happy:before{content:&quot;\f192&quot;}.ion-ios-headset:before{content:&quot;\f194&quot;}.ion-ios-heart:before{content:&quot;\f443&quot;}.ion-ios-heart-dislike:before{content:&quot;\f13f&quot;}.ion-ios-heart-empty:before{content:&quot;\f19b&quot;}.ion-ios-heart-half:before{content:&quot;\f19d&quot;}.ion-ios-help:before{content:&quot;\f446&quot;}.ion-ios-help-buoy:before{content:&quot;\f196&quot;}.ion-ios-help-circle:before{content:&quot;\f198&quot;}.ion-ios-help-circle-outline:before{content:&quot;\f197&quot;}.ion-ios-home:before{content:&quot;\f448&quot;}.ion-ios-hourglass:before{content:&quot;\f103&quot;}.ion-ios-ice-cream:before{content:&quot;\f19a&quot;}.ion-ios-image:before{content:&quot;\f19c&quot;}.ion-ios-images:before{content:&quot;\f19e&quot;}.ion-ios-infinite:before{content:&quot;\f44a&quot;}.ion-ios-information:before{content:&quot;\f44d&quot;}.ion-ios-information-circle:before{content:&quot;\f1a0&quot;}.ion-ios-information-circle-outline:before{content:&quot;\f19f&quot;}.ion-ios-jet:before{content:&quot;\f1a5&quot;}.ion-ios-journal:before{content:&quot;\f189&quot;}.ion-ios-key:before{content:&quot;\f1a7&quot;}.ion-ios-keypad:before{content:&quot;\f450&quot;}.ion-ios-laptop:before{content:&quot;\f1a8&quot;}.ion-ios-leaf:before{content:&quot;\f1aa&quot;}.ion-ios-link:before{content:&quot;\f22a&quot;}.ion-ios-list:before{content:&quot;\f454&quot;}.ion-ios-list-box:before{content:&quot;\f143&quot;}.ion-ios-locate:before{content:&quot;\f1ae&quot;}.ion-ios-lock:before{content:&quot;\f1b0&quot;}.ion-ios-log-in:before{content:&quot;\f1b1&quot;}.ion-ios-log-out:before{content:&quot;\f1b2&quot;}.ion-ios-magnet:before{content:&quot;\f1b4&quot;}.ion-ios-mail:before{content:&quot;\f1b8&quot;}.ion-ios-mail-open:before{content:&quot;\f1b6&quot;}.ion-ios-mail-unread:before{content:&quot;\f145&quot;}.ion-ios-male:before{content:&quot;\f1b9&quot;}.ion-ios-man:before{content:&quot;\f1bb&quot;}.ion-ios-map:before{content:&quot;\f1bd&quot;}.ion-ios-medal:before{content:&quot;\f1bf&quot;}.ion-ios-medical:before{content:&quot;\f45c&quot;}.ion-ios-medkit:before{content:&quot;\f45e&quot;}.ion-ios-megaphone:before{content:&quot;\f1c1&quot;}.ion-ios-menu:before{content:&quot;\f1c3&quot;}.ion-ios-mic:before{content:&quot;\f461&quot;}.ion-ios-mic-off:before{content:&quot;\f45f&quot;}.ion-ios-microphone:before{content:&quot;\f1c6&quot;}.ion-ios-moon:before{content:&quot;\f468&quot;}.ion-ios-more:before{content:&quot;\f1c8&quot;}.ion-ios-move:before{content:&quot;\f1cb&quot;}.ion-ios-musical-note:before{content:&quot;\f46b&quot;}.ion-ios-musical-notes:before{content:&quot;\f46c&quot;}.ion-ios-navigate:before{content:&quot;\f46e&quot;}.ion-ios-notifications:before{content:&quot;\f1d3&quot;}.ion-ios-notifications-off:before{content:&quot;\f1d1&quot;}.ion-ios-notifications-outline:before{content:&quot;\f133&quot;}.ion-ios-nuclear:before{content:&quot;\f1d5&quot;}.ion-ios-nutrition:before{content:&quot;\f470&quot;}.ion-ios-open:before{content:&quot;\f1d7&quot;}.ion-ios-options:before{content:&quot;\f1d9&quot;}.ion-ios-outlet:before{content:&quot;\f1db&quot;}.ion-ios-paper:before{content:&quot;\f472&quot;}.ion-ios-paper-plane:before{content:&quot;\f1dd&quot;}.ion-ios-partly-sunny:before{content:&quot;\f1df&quot;}.ion-ios-pause:before{content:&quot;\f478&quot;}.ion-ios-paw:before{content:&quot;\f47a&quot;}.ion-ios-people:before{content:&quot;\f47c&quot;}.ion-ios-person:before{content:&quot;\f47e&quot;}.ion-ios-person-add:before{content:&quot;\f1e1&quot;}.ion-ios-phone-landscape:before{content:&quot;\f1e2&quot;}.ion-ios-phone-portrait:before{content:&quot;\f1e3&quot;}.ion-ios-photos:before{content:&quot;\f482&quot;}.ion-ios-pie:before{content:&quot;\f484&quot;}.ion-ios-pin:before{content:&quot;\f1e5&quot;}.ion-ios-pint:before{content:&quot;\f486&quot;}.ion-ios-pizza:before{content:&quot;\f1e7&quot;}.ion-ios-planet:before{content:&quot;\f1eb&quot;}.ion-ios-play:before{content:&quot;\f488&quot;}.ion-ios-play-circle:before{content:&quot;\f113&quot;}.ion-ios-podium:before{content:&quot;\f1ed&quot;}.ion-ios-power:before{content:&quot;\f1ef&quot;}.ion-ios-pricetag:before{content:&quot;\f48d&quot;}.ion-ios-pricetags:before{content:&quot;\f48f&quot;}.ion-ios-print:before{content:&quot;\f1f1&quot;}.ion-ios-pulse:before{content:&quot;\f493&quot;}.ion-ios-qr-scanner:before{content:&quot;\f1f3&quot;}.ion-ios-quote:before{content:&quot;\f1f5&quot;}.ion-ios-radio:before{content:&quot;\f1f9&quot;}.ion-ios-radio-button-off:before{content:&quot;\f1f6&quot;}.ion-ios-radio-button-on:before{content:&quot;\f1f7&quot;}.ion-ios-rainy:before{content:&quot;\f495&quot;}.ion-ios-recording:before{content:&quot;\f497&quot;}.ion-ios-redo:before{content:&quot;\f499&quot;}.ion-ios-refresh:before{content:&quot;\f49c&quot;}.ion-ios-refresh-circle:before{content:&quot;\f135&quot;}.ion-ios-remove:before{content:&quot;\f1fc&quot;}.ion-ios-remove-circle:before{content:&quot;\f1fb&quot;}.ion-ios-remove-circle-outline:before{content:&quot;\f1fa&quot;}.ion-ios-reorder:before{content:&quot;\f1fd&quot;}.ion-ios-repeat:before{content:&quot;\f1fe&quot;}.ion-ios-resize:before{content:&quot;\f1ff&quot;}.ion-ios-restaurant:before{content:&quot;\f201&quot;}.ion-ios-return-left:before{content:&quot;\f202&quot;}.ion-ios-return-right:before{content:&quot;\f203&quot;}.ion-ios-reverse-camera:before{content:&quot;\f49f&quot;}.ion-ios-rewind:before{content:&quot;\f4a1&quot;}.ion-ios-ribbon:before{content:&quot;\f205&quot;}.ion-ios-rocket:before{content:&quot;\f14b&quot;}.ion-ios-rose:before{content:&quot;\f4a3&quot;}.ion-ios-sad:before{content:&quot;\f207&quot;}.ion-ios-save:before{content:&quot;\f1a6&quot;}.ion-ios-school:before{content:&quot;\f209&quot;}.ion-ios-search:before{content:&quot;\f4a5&quot;}.ion-ios-send:before{content:&quot;\f20c&quot;}.ion-ios-settings:before{content:&quot;\f4a7&quot;}.ion-ios-share:before{content:&quot;\f211&quot;}.ion-ios-share-alt:before{content:&quot;\f20f&quot;}.ion-ios-shirt:before{content:&quot;\f213&quot;}.ion-ios-shuffle:before{content:&quot;\f4a9&quot;}.ion-ios-skip-backward:before{content:&quot;\f215&quot;}.ion-ios-skip-forward:before{content:&quot;\f217&quot;}.ion-ios-snow:before{content:&quot;\f218&quot;}.ion-ios-speedometer:before{content:&quot;\f4b0&quot;}.ion-ios-square:before{content:&quot;\f21a&quot;}.ion-ios-square-outline:before{content:&quot;\f15c&quot;}.ion-ios-star:before{content:&quot;\f4b3&quot;}.ion-ios-star-half:before{content:&quot;\f4b1&quot;}.ion-ios-star-outline:before{content:&quot;\f4b2&quot;}.ion-ios-stats:before{content:&quot;\f21c&quot;}.ion-ios-stopwatch:before{content:&quot;\f4b5&quot;}.ion-ios-subway:before{content:&quot;\f21e&quot;}.ion-ios-sunny:before{content:&quot;\f4b7&quot;}.ion-ios-swap:before{content:&quot;\f21f&quot;}.ion-ios-switch:before{content:&quot;\f221&quot;}.ion-ios-sync:before{content:&quot;\f222&quot;}.ion-ios-tablet-landscape:before{content:&quot;\f223&quot;}.ion-ios-tablet-portrait:before{content:&quot;\f24e&quot;}.ion-ios-tennisball:before{content:&quot;\f4bb&quot;}.ion-ios-text:before{content:&quot;\f250&quot;}.ion-ios-thermometer:before{content:&quot;\f252&quot;}.ion-ios-thumbs-down:before{content:&quot;\f254&quot;}.ion-ios-thumbs-up:before{content:&quot;\f256&quot;}.ion-ios-thunderstorm:before{content:&quot;\f4bd&quot;}.ion-ios-time:before{content:&quot;\f4bf&quot;}.ion-ios-timer:before{content:&quot;\f4c1&quot;}.ion-ios-today:before{content:&quot;\f14f&quot;}.ion-ios-train:before{content:&quot;\f258&quot;}.ion-ios-transgender:before{content:&quot;\f259&quot;}.ion-ios-trash:before{content:&quot;\f4c5&quot;}.ion-ios-trending-down:before{content:&quot;\f25a&quot;}.ion-ios-trending-up:before{content:&quot;\f25b&quot;}.ion-ios-trophy:before{content:&quot;\f25d&quot;}.ion-ios-tv:before{content:&quot;\f115&quot;}.ion-ios-umbrella:before{content:&quot;\f25f&quot;}.ion-ios-undo:before{content:&quot;\f4c7&quot;}.ion-ios-unlock:before{content:&quot;\f261&quot;}.ion-ios-videocam:before{content:&quot;\f4cd&quot;}.ion-ios-volume-high:before{content:&quot;\f11c&quot;}.ion-ios-volume-low:before{content:&quot;\f11e&quot;}.ion-ios-volume-mute:before{content:&quot;\f263&quot;}.ion-ios-volume-off:before{content:&quot;\f264&quot;}.ion-ios-walk:before{content:&quot;\f266&quot;}.ion-ios-wallet:before{content:&quot;\f18b&quot;}.ion-ios-warning:before{content:&quot;\f268&quot;}.ion-ios-watch:before{content:&quot;\f269&quot;}.ion-ios-water:before{content:&quot;\f26b&quot;}.ion-ios-wifi:before{content:&quot;\f26d&quot;}.ion-ios-wine:before{content:&quot;\f26f&quot;}.ion-ios-woman:before{content:&quot;\f271&quot;}.ion-logo-android:before{content:&quot;\f225&quot;}.ion-logo-angular:before{content:&quot;\f227&quot;}.ion-logo-apple:before{content:&quot;\f229&quot;}.ion-logo-bitbucket:before{content:&quot;\f193&quot;}.ion-logo-bitcoin:before{content:&quot;\f22b&quot;}.ion-logo-buffer:before{content:&quot;\f22d&quot;}.ion-logo-chrome:before{content:&quot;\f22f&quot;}.ion-logo-closed-captioning:before{content:&quot;\f105&quot;}.ion-logo-codepen:before{content:&quot;\f230&quot;}.ion-logo-css3:before{content:&quot;\f231&quot;}.ion-logo-designernews:before{content:&quot;\f232&quot;}.ion-logo-dribbble:before{content:&quot;\f233&quot;}.ion-logo-dropbox:before{content:&quot;\f234&quot;}.ion-logo-euro:before{content:&quot;\f235&quot;}.ion-logo-facebook:before{content:&quot;\f236&quot;}.ion-logo-flickr:before{content:&quot;\f107&quot;}.ion-logo-foursquare:before{content:&quot;\f237&quot;}.ion-logo-freebsd-devil:before{content:&quot;\f238&quot;}.ion-logo-game-controller-a:before{content:&quot;\f13b&quot;}.ion-logo-game-controller-b:before{content:&quot;\f181&quot;}.ion-logo-github:before{content:&quot;\f239&quot;}.ion-logo-google:before{content:&quot;\f23a&quot;}.ion-logo-googleplus:before{content:&quot;\f23b&quot;}.ion-logo-hackernews:before{content:&quot;\f23c&quot;}.ion-logo-html5:before{content:&quot;\f23d&quot;}.ion-logo-instagram:before{content:&quot;\f23e&quot;}.ion-logo-ionic:before{content:&quot;\f150&quot;}.ion-logo-ionitron:before{content:&quot;\f151&quot;}.ion-logo-javascript:before{content:&quot;\f23f&quot;}.ion-logo-linkedin:before{content:&quot;\f240&quot;}.ion-logo-markdown:before{content:&quot;\f241&quot;}.ion-logo-model-s:before{content:&quot;\f153&quot;}.ion-logo-no-smoking:before{content:&quot;\f109&quot;}.ion-logo-nodejs:before{content:&quot;\f242&quot;}.ion-logo-npm:before{content:&quot;\f195&quot;}.ion-logo-octocat:before{content:&quot;\f243&quot;}.ion-logo-pinterest:before{content:&quot;\f244&quot;}.ion-logo-playstation:before{content:&quot;\f245&quot;}.ion-logo-polymer:before{content:&quot;\f15e&quot;}.ion-logo-python:before{content:&quot;\f246&quot;}.ion-logo-reddit:before{content:&quot;\f247&quot;}.ion-logo-rss:before{content:&quot;\f248&quot;}.ion-logo-sass:before{content:&quot;\f249&quot;}.ion-logo-skype:before{content:&quot;\f24a&quot;}.ion-logo-slack:before{content:&quot;\f10b&quot;}.ion-logo-snapchat:before{content:&quot;\f24b&quot;}.ion-logo-steam:before{content:&quot;\f24c&quot;}.ion-logo-tumblr:before{content:&quot;\f24d&quot;}.ion-logo-tux:before{content:&quot;\f2ae&quot;}.ion-logo-twitch:before{content:&quot;\f2af&quot;}.ion-logo-twitter:before{content:&quot;\f2b0&quot;}.ion-logo-usd:before{content:&quot;\f2b1&quot;}.ion-logo-vimeo:before{content:&quot;\f2c4&quot;}.ion-logo-vk:before{content:&quot;\f10d&quot;}.ion-logo-whatsapp:before{content:&quot;\f2c5&quot;}.ion-logo-windows:before{content:&quot;\f32f&quot;}.ion-logo-wordpress:before{content:&quot;\f330&quot;}.ion-logo-xbox:before{content:&quot;\f34c&quot;}.ion-logo-xing:before{content:&quot;\f10f&quot;}.ion-logo-yahoo:before{content:&quot;\f34d&quot;}.ion-logo-yen:before{content:&quot;\f34e&quot;}.ion-logo-youtube:before{content:&quot;\f34f&quot;}.ion-md-add:before{content:&quot;\f273&quot;}.ion-md-add-circle:before{content:&quot;\f272&quot;}.ion-md-add-circle-outline:before{content:&quot;\f158&quot;}.ion-md-airplane:before{content:&quot;\f15a&quot;}.ion-md-alarm:before{content:&quot;\f274&quot;}.ion-md-albums:before{content:&quot;\f275&quot;}.ion-md-alert:before{content:&quot;\f276&quot;}.ion-md-american-football:before{content:&quot;\f277&quot;}.ion-md-analytics:before{content:&quot;\f278&quot;}.ion-md-aperture:before{content:&quot;\f279&quot;}.ion-md-apps:before{content:&quot;\f27a&quot;}.ion-md-appstore:before{content:&quot;\f27b&quot;}.ion-md-archive:before{content:&quot;\f27c&quot;}.ion-md-arrow-back:before{content:&quot;\f27d&quot;}.ion-md-arrow-down:before{content:&quot;\f27e&quot;}.ion-md-arrow-dropdown:before{content:&quot;\f280&quot;}.ion-md-arrow-dropdown-circle:before{content:&quot;\f27f&quot;}.ion-md-arrow-dropleft:before{content:&quot;\f282&quot;}.ion-md-arrow-dropleft-circle:before{content:&quot;\f281&quot;}.ion-md-arrow-dropright:before{content:&quot;\f284&quot;}.ion-md-arrow-dropright-circle:before{content:&quot;\f283&quot;}.ion-md-arrow-dropup:before{content:&quot;\f286&quot;}.ion-md-arrow-dropup-circle:before{content:&quot;\f285&quot;}.ion-md-arrow-forward:before{content:&quot;\f287&quot;}.ion-md-arrow-round-back:before{content:&quot;\f288&quot;}.ion-md-arrow-round-down:before{content:&quot;\f289&quot;}.ion-md-arrow-round-forward:before{content:&quot;\f28a&quot;}.ion-md-arrow-round-up:before{content:&quot;\f28b&quot;}.ion-md-arrow-up:before{content:&quot;\f28c&quot;}.ion-md-at:before{content:&quot;\f28d&quot;}.ion-md-attach:before{content:&quot;\f28e&quot;}.ion-md-backspace:before{content:&quot;\f28f&quot;}.ion-md-barcode:before{content:&quot;\f290&quot;}.ion-md-baseball:before{content:&quot;\f291&quot;}.ion-md-basket:before{content:&quot;\f292&quot;}.ion-md-basketball:before{content:&quot;\f293&quot;}.ion-md-battery-charging:before{content:&quot;\f294&quot;}.ion-md-battery-dead:before{content:&quot;\f295&quot;}.ion-md-battery-full:before{content:&quot;\f296&quot;}.ion-md-beaker:before{content:&quot;\f297&quot;}.ion-md-bed:before{content:&quot;\f160&quot;}.ion-md-beer:before{content:&quot;\f298&quot;}.ion-md-bicycle:before{content:&quot;\f299&quot;}.ion-md-bluetooth:before{content:&quot;\f29a&quot;}.ion-md-boat:before{content:&quot;\f29b&quot;}.ion-md-body:before{content:&quot;\f29c&quot;}.ion-md-bonfire:before{content:&quot;\f29d&quot;}.ion-md-book:before{content:&quot;\f29e&quot;}.ion-md-bookmark:before{content:&quot;\f29f&quot;}.ion-md-bookmarks:before{content:&quot;\f2a0&quot;}.ion-md-bowtie:before{content:&quot;\f2a1&quot;}.ion-md-briefcase:before{content:&quot;\f2a2&quot;}.ion-md-browsers:before{content:&quot;\f2a3&quot;}.ion-md-brush:before{content:&quot;\f2a4&quot;}.ion-md-bug:before{content:&quot;\f2a5&quot;}.ion-md-build:before{content:&quot;\f2a6&quot;}.ion-md-bulb:before{content:&quot;\f2a7&quot;}.ion-md-bus:before{content:&quot;\f2a8&quot;}.ion-md-business:before{content:&quot;\f1a4&quot;}.ion-md-cafe:before{content:&quot;\f2a9&quot;}.ion-md-calculator:before{content:&quot;\f2aa&quot;}.ion-md-calendar:before{content:&quot;\f2ab&quot;}.ion-md-call:before{content:&quot;\f2ac&quot;}.ion-md-camera:before{content:&quot;\f2ad&quot;}.ion-md-car:before{content:&quot;\f2b2&quot;}.ion-md-card:before{content:&quot;\f2b3&quot;}.ion-md-cart:before{content:&quot;\f2b4&quot;}.ion-md-cash:before{content:&quot;\f2b5&quot;}.ion-md-cellular:before{content:&quot;\f164&quot;}.ion-md-chatboxes:before{content:&quot;\f2b6&quot;}.ion-md-chatbubbles:before{content:&quot;\f2b7&quot;}.ion-md-checkbox:before{content:&quot;\f2b9&quot;}.ion-md-checkbox-outline:before{content:&quot;\f2b8&quot;}.ion-md-checkmark:before{content:&quot;\f2bc&quot;}.ion-md-checkmark-circle:before{content:&quot;\f2bb&quot;}.ion-md-checkmark-circle-outline:before{content:&quot;\f2ba&quot;}.ion-md-clipboard:before{content:&quot;\f2bd&quot;}.ion-md-clock:before{content:&quot;\f2be&quot;}.ion-md-close:before{content:&quot;\f2c0&quot;}.ion-md-close-circle:before{content:&quot;\f2bf&quot;}.ion-md-close-circle-outline:before{content:&quot;\f166&quot;}.ion-md-cloud:before{content:&quot;\f2c9&quot;}.ion-md-cloud-circle:before{content:&quot;\f2c2&quot;}.ion-md-cloud-done:before{content:&quot;\f2c3&quot;}.ion-md-cloud-download:before{content:&quot;\f2c6&quot;}.ion-md-cloud-outline:before{content:&quot;\f2c7&quot;}.ion-md-cloud-upload:before{content:&quot;\f2c8&quot;}.ion-md-cloudy:before{content:&quot;\f2cb&quot;}.ion-md-cloudy-night:before{content:&quot;\f2ca&quot;}.ion-md-code:before{content:&quot;\f2ce&quot;}.ion-md-code-download:before{content:&quot;\f2cc&quot;}.ion-md-code-working:before{content:&quot;\f2cd&quot;}.ion-md-cog:before{content:&quot;\f2cf&quot;}.ion-md-color-fill:before{content:&quot;\f2d0&quot;}.ion-md-color-filter:before{content:&quot;\f2d1&quot;}.ion-md-color-palette:before{content:&quot;\f2d2&quot;}.ion-md-color-wand:before{content:&quot;\f2d3&quot;}.ion-md-compass:before{content:&quot;\f2d4&quot;}.ion-md-construct:before{content:&quot;\f2d5&quot;}.ion-md-contact:before{content:&quot;\f2d6&quot;}.ion-md-contacts:before{content:&quot;\f2d7&quot;}.ion-md-contract:before{content:&quot;\f2d8&quot;}.ion-md-contrast:before{content:&quot;\f2d9&quot;}.ion-md-copy:before{content:&quot;\f2da&quot;}.ion-md-create:before{content:&quot;\f2db&quot;}.ion-md-crop:before{content:&quot;\f2dc&quot;}.ion-md-cube:before{content:&quot;\f2dd&quot;}.ion-md-cut:before{content:&quot;\f2de&quot;}.ion-md-desktop:before{content:&quot;\f2df&quot;}.ion-md-disc:before{content:&quot;\f2e0&quot;}.ion-md-document:before{content:&quot;\f2e1&quot;}.ion-md-done-all:before{content:&quot;\f2e2&quot;}.ion-md-download:before{content:&quot;\f2e3&quot;}.ion-md-easel:before{content:&quot;\f2e4&quot;}.ion-md-egg:before{content:&quot;\f2e5&quot;}.ion-md-exit:before{content:&quot;\f2e6&quot;}.ion-md-expand:before{content:&quot;\f2e7&quot;}.ion-md-eye:before{content:&quot;\f2e9&quot;}.ion-md-eye-off:before{content:&quot;\f2e8&quot;}.ion-md-fastforward:before{content:&quot;\f2ea&quot;}.ion-md-female:before{content:&quot;\f2eb&quot;}.ion-md-filing:before{content:&quot;\f2ec&quot;}.ion-md-film:before{content:&quot;\f2ed&quot;}.ion-md-finger-print:before{content:&quot;\f2ee&quot;}.ion-md-fitness:before{content:&quot;\f1ac&quot;}.ion-md-flag:before{content:&quot;\f2ef&quot;}.ion-md-flame:before{content:&quot;\f2f0&quot;}.ion-md-flash:before{content:&quot;\f2f1&quot;}.ion-md-flash-off:before{content:&quot;\f169&quot;}.ion-md-flashlight:before{content:&quot;\f16b&quot;}.ion-md-flask:before{content:&quot;\f2f2&quot;}.ion-md-flower:before{content:&quot;\f2f3&quot;}.ion-md-folder:before{content:&quot;\f2f5&quot;}.ion-md-folder-open:before{content:&quot;\f2f4&quot;}.ion-md-football:before{content:&quot;\f2f6&quot;}.ion-md-funnel:before{content:&quot;\f2f7&quot;}.ion-md-gift:before{content:&quot;\f199&quot;}.ion-md-git-branch:before{content:&quot;\f2fa&quot;}.ion-md-git-commit:before{content:&quot;\f2fb&quot;}.ion-md-git-compare:before{content:&quot;\f2fc&quot;}.ion-md-git-merge:before{content:&quot;\f2fd&quot;}.ion-md-git-network:before{content:&quot;\f2fe&quot;}.ion-md-git-pull-request:before{content:&quot;\f2ff&quot;}.ion-md-glasses:before{content:&quot;\f300&quot;}.ion-md-globe:before{content:&quot;\f301&quot;}.ion-md-grid:before{content:&quot;\f302&quot;}.ion-md-hammer:before{content:&quot;\f303&quot;}.ion-md-hand:before{content:&quot;\f304&quot;}.ion-md-happy:before{content:&quot;\f305&quot;}.ion-md-headset:before{content:&quot;\f306&quot;}.ion-md-heart:before{content:&quot;\f308&quot;}.ion-md-heart-dislike:before{content:&quot;\f167&quot;}.ion-md-heart-empty:before{content:&quot;\f1a1&quot;}.ion-md-heart-half:before{content:&quot;\f1a2&quot;}.ion-md-help:before{content:&quot;\f30b&quot;}.ion-md-help-buoy:before{content:&quot;\f309&quot;}.ion-md-help-circle:before{content:&quot;\f30a&quot;}.ion-md-help-circle-outline:before{content:&quot;\f16d&quot;}.ion-md-home:before{content:&quot;\f30c&quot;}.ion-md-hourglass:before{content:&quot;\f111&quot;}.ion-md-ice-cream:before{content:&quot;\f30d&quot;}.ion-md-image:before{content:&quot;\f30e&quot;}.ion-md-images:before{content:&quot;\f30f&quot;}.ion-md-infinite:before{content:&quot;\f310&quot;}.ion-md-information:before{content:&quot;\f312&quot;}.ion-md-information-circle:before{content:&quot;\f311&quot;}.ion-md-information-circle-outline:before{content:&quot;\f16f&quot;}.ion-md-jet:before{content:&quot;\f315&quot;}.ion-md-journal:before{content:&quot;\f18d&quot;}.ion-md-key:before{content:&quot;\f316&quot;}.ion-md-keypad:before{content:&quot;\f317&quot;}.ion-md-laptop:before{content:&quot;\f318&quot;}.ion-md-leaf:before{content:&quot;\f319&quot;}.ion-md-link:before{content:&quot;\f22e&quot;}.ion-md-list:before{content:&quot;\f31b&quot;}.ion-md-list-box:before{content:&quot;\f31a&quot;}.ion-md-locate:before{content:&quot;\f31c&quot;}.ion-md-lock:before{content:&quot;\f31d&quot;}.ion-md-log-in:before{content:&quot;\f31e&quot;}.ion-md-log-out:before{content:&quot;\f31f&quot;}.ion-md-magnet:before{content:&quot;\f320&quot;}.ion-md-mail:before{content:&quot;\f322&quot;}.ion-md-mail-open:before{content:&quot;\f321&quot;}.ion-md-mail-unread:before{content:&quot;\f172&quot;}.ion-md-male:before{content:&quot;\f323&quot;}.ion-md-man:before{content:&quot;\f324&quot;}.ion-md-map:before{content:&quot;\f325&quot;}.ion-md-medal:before{content:&quot;\f326&quot;}.ion-md-medical:before{content:&quot;\f327&quot;}.ion-md-medkit:before{content:&quot;\f328&quot;}.ion-md-megaphone:before{content:&quot;\f329&quot;}.ion-md-menu:before{content:&quot;\f32a&quot;}.ion-md-mic:before{content:&quot;\f32c&quot;}.ion-md-mic-off:before{content:&quot;\f32b&quot;}.ion-md-microphone:before{content:&quot;\f32d&quot;}.ion-md-moon:before{content:&quot;\f32e&quot;}.ion-md-more:before{content:&quot;\f1c9&quot;}.ion-md-move:before{content:&quot;\f331&quot;}.ion-md-musical-note:before{content:&quot;\f332&quot;}.ion-md-musical-notes:before{content:&quot;\f333&quot;}.ion-md-navigate:before{content:&quot;\f334&quot;}.ion-md-notifications:before{content:&quot;\f338&quot;}.ion-md-notifications-off:before{content:&quot;\f336&quot;}.ion-md-notifications-outline:before{content:&quot;\f337&quot;}.ion-md-nuclear:before{content:&quot;\f339&quot;}.ion-md-nutrition:before{content:&quot;\f33a&quot;}.ion-md-open:before{content:&quot;\f33b&quot;}.ion-md-options:before{content:&quot;\f33c&quot;}.ion-md-outlet:before{content:&quot;\f33d&quot;}.ion-md-paper:before{content:&quot;\f33f&quot;}.ion-md-paper-plane:before{content:&quot;\f33e&quot;}.ion-md-partly-sunny:before{content:&quot;\f340&quot;}.ion-md-pause:before{content:&quot;\f341&quot;}.ion-md-paw:before{content:&quot;\f342&quot;}.ion-md-people:before{content:&quot;\f343&quot;}.ion-md-person:before{content:&quot;\f345&quot;}.ion-md-person-add:before{content:&quot;\f344&quot;}.ion-md-phone-landscape:before{content:&quot;\f346&quot;}.ion-md-phone-portrait:before{content:&quot;\f347&quot;}.ion-md-photos:before{content:&quot;\f348&quot;}.ion-md-pie:before{content:&quot;\f349&quot;}.ion-md-pin:before{content:&quot;\f34a&quot;}.ion-md-pint:before{content:&quot;\f34b&quot;}.ion-md-pizza:before{content:&quot;\f354&quot;}.ion-md-planet:before{content:&quot;\f356&quot;}.ion-md-play:before{content:&quot;\f357&quot;}.ion-md-play-circle:before{content:&quot;\f174&quot;}.ion-md-podium:before{content:&quot;\f358&quot;}.ion-md-power:before{content:&quot;\f359&quot;}.ion-md-pricetag:before{content:&quot;\f35a&quot;}.ion-md-pricetags:before{content:&quot;\f35b&quot;}.ion-md-print:before{content:&quot;\f35c&quot;}.ion-md-pulse:before{content:&quot;\f35d&quot;}.ion-md-qr-scanner:before{content:&quot;\f35e&quot;}.ion-md-quote:before{content:&quot;\f35f&quot;}.ion-md-radio:before{content:&quot;\f362&quot;}.ion-md-radio-button-off:before{content:&quot;\f360&quot;}.ion-md-radio-button-on:before{content:&quot;\f361&quot;}.ion-md-rainy:before{content:&quot;\f363&quot;}.ion-md-recording:before{content:&quot;\f364&quot;}.ion-md-redo:before{content:&quot;\f365&quot;}.ion-md-refresh:before{content:&quot;\f366&quot;}.ion-md-refresh-circle:before{content:&quot;\f228&quot;}.ion-md-remove:before{content:&quot;\f368&quot;}.ion-md-remove-circle:before{content:&quot;\f367&quot;}.ion-md-remove-circle-outline:before{content:&quot;\f176&quot;}.ion-md-reorder:before{content:&quot;\f369&quot;}.ion-md-repeat:before{content:&quot;\f36a&quot;}.ion-md-resize:before{content:&quot;\f36b&quot;}.ion-md-restaurant:before{content:&quot;\f36c&quot;}.ion-md-return-left:before{content:&quot;\f36d&quot;}.ion-md-return-right:before{content:&quot;\f36e&quot;}.ion-md-reverse-camera:before{content:&quot;\f36f&quot;}.ion-md-rewind:before{content:&quot;\f370&quot;}.ion-md-ribbon:before{content:&quot;\f371&quot;}.ion-md-rocket:before{content:&quot;\f179&quot;}.ion-md-rose:before{content:&quot;\f372&quot;}.ion-md-sad:before{content:&quot;\f373&quot;}.ion-md-save:before{content:&quot;\f1a9&quot;}.ion-md-school:before{content:&quot;\f374&quot;}.ion-md-search:before{content:&quot;\f375&quot;}.ion-md-send:before{content:&quot;\f376&quot;}.ion-md-settings:before{content:&quot;\f377&quot;}.ion-md-share:before{content:&quot;\f379&quot;}.ion-md-share-alt:before{content:&quot;\f378&quot;}.ion-md-shirt:before{content:&quot;\f37a&quot;}.ion-md-shuffle:before{content:&quot;\f37b&quot;}.ion-md-skip-backward:before{content:&quot;\f37c&quot;}.ion-md-skip-forward:before{content:&quot;\f37d&quot;}.ion-md-snow:before{content:&quot;\f37e&quot;}.ion-md-speedometer:before{content:&quot;\f37f&quot;}.ion-md-square:before{content:&quot;\f381&quot;}.ion-md-square-outline:before{content:&quot;\f380&quot;}.ion-md-star:before{content:&quot;\f384&quot;}.ion-md-star-half:before{content:&quot;\f382&quot;}.ion-md-star-outline:before{content:&quot;\f383&quot;}.ion-md-stats:before{content:&quot;\f385&quot;}.ion-md-stopwatch:before{content:&quot;\f386&quot;}.ion-md-subway:before{content:&quot;\f387&quot;}.ion-md-sunny:before{content:&quot;\f388&quot;}.ion-md-swap:before{content:&quot;\f389&quot;}.ion-md-switch:before{content:&quot;\f38a&quot;}.ion-md-sync:before{content:&quot;\f38b&quot;}.ion-md-tablet-landscape:before{content:&quot;\f38c&quot;}.ion-md-tablet-portrait:before{content:&quot;\f38d&quot;}.ion-md-tennisball:before{content:&quot;\f38e&quot;}.ion-md-text:before{content:&quot;\f38f&quot;}.ion-md-thermometer:before{content:&quot;\f390&quot;}.ion-md-thumbs-down:before{content:&quot;\f391&quot;}.ion-md-thumbs-up:before{content:&quot;\f392&quot;}.ion-md-thunderstorm:before{content:&quot;\f393&quot;}.ion-md-time:before{content:&quot;\f394&quot;}.ion-md-timer:before{content:&quot;\f395&quot;}.ion-md-today:before{content:&quot;\f17d&quot;}.ion-md-train:before{content:&quot;\f396&quot;}.ion-md-transgender:before{content:&quot;\f397&quot;}.ion-md-trash:before{content:&quot;\f398&quot;}.ion-md-trending-down:before{content:&quot;\f399&quot;}.ion-md-trending-up:before{content:&quot;\f39a&quot;}.ion-md-trophy:before{content:&quot;\f39b&quot;}.ion-md-tv:before{content:&quot;\f17f&quot;}.ion-md-umbrella:before{content:&quot;\f39c&quot;}.ion-md-undo:before{content:&quot;\f39d&quot;}.ion-md-unlock:before{content:&quot;\f39e&quot;}.ion-md-videocam:before{content:&quot;\f39f&quot;}.ion-md-volume-high:before{content:&quot;\f123&quot;}.ion-md-volume-low:before{content:&quot;\f131&quot;}.ion-md-volume-mute:before{content:&quot;\f3a1&quot;}.ion-md-volume-off:before{content:&quot;\f3a2&quot;}.ion-md-walk:before{content:&quot;\f3a4&quot;}.ion-md-wallet:before{content:&quot;\f18f&quot;}.ion-md-warning:before{content:&quot;\f3a5&quot;}.ion-md-watch:before{content:&quot;\f3a6&quot;}.ion-md-water:before{content:&quot;\f3a7&quot;}.ion-md-wifi:before{content:&quot;\f3a8&quot;}.ion-md-wine:before{content:&quot;\f3a9&quot;}.ion-md-woman:before{content:&quot;\f3aa&quot;}</span></td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ionic-team/ionicons/blame/ce2a55406f244d3186525f29cbc98f8a26f0ae2f/docs/css/ionicons.min.css">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ionic-team/ionicons/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+  </div>
+
+    </div>
+
+  
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
+
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2019 <span title="0.20283s from unicorn-dd594fb77-8nh7t">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon mr-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-ZwVwxq7XuYTJgo+RvKEmeGyrm1OTN2Du77YWAfdEiJo9lZbmFO252M4KaMRyDZ3O0bw1OYpF/rJCyQ3g/aa0yA==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-5e5334deb0beba2b22d055907f8e10a4.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-g6sop11ZbJFV7uscd00aBt7HDOZqv7Ew8MlO7sL5m/1wyQRimZuO6C83Zgwug4FXEZ4frKtAAshcDL+cVeo9Fw==" type="application/javascript" src="https://github.githubassets.com/assets/github-9c449ab6e9f7611eadabbf8c88a1e15c.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark" open>
+    <summary aria-haspopup="dialog" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+
+  </body>
+</html>
+
